@@ -5,7 +5,7 @@ def person=(name)
 end
 
 def person
-  @person
+  @name
 end
 
 
