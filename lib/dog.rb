@@ -7,11 +7,11 @@ def name=(name)
 
 end
 
-def
+def dog_name
 
 def type(breed)
-  @breed =
-
+  @breed = "Beagle"
+end
 
 
 end
