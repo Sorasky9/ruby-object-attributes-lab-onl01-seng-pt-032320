@@ -7,7 +7,7 @@ def name=(name)
 
 end
 
-def name(@name, Fido)
+def name(name, Fido)
 @name = "Fido"
 
 end
