@@ -7,12 +7,16 @@ def name=(name)
 
 end
 
+def name(@name, Fido)
+@name = "Fido"
+
+end
+
 def type(breed)
   @breed = "Beagle"
 end
 
 
-name = Dog.new
-@name
+
 
 end
