@@ -7,6 +7,8 @@ def name=(name)
 
 end
 
+def
+
 def type(breed)
   @breed =
 
