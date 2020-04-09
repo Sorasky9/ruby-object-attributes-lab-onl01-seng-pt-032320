@@ -11,8 +11,12 @@ def name
   @name
 end
 
-def type(breed)
+def breed=(breed)
   @breed = "Beagle"
+end
+
+def breed
+  @breed
 end
 
 
