@@ -8,7 +8,7 @@ def name=(name)
 end
 
 def type(breed)
-  @breed = 
+  @breed =
 
 
 
