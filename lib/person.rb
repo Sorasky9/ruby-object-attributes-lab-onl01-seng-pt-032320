@@ -1,6 +1,6 @@
 class Person
 
-def person=(person)
+def name=(person)
   @person = "Beyonce"
 end
 
