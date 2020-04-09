@@ -4,7 +4,7 @@ def name=(name)
   @name = "Beyonce"
 end
 
-def person
+def name
   @name
 end
 
