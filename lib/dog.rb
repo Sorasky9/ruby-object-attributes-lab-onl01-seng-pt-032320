@@ -11,5 +11,8 @@ def type(breed)
   @breed = "Beagle"
 end
 
+
+name = Dog.new
 @name
+
 end
